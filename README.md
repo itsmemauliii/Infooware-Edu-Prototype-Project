@@ -1,7 +1,5 @@
 # 🧠 Infoware Edu Prototype (PDF to Slides & Short Video)
 
-### 👩‍💻 Assignee: Intern
-
 **Goal:**
 Convert an input PDF (e.g., one chapter or article) into:
 
