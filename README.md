@@ -1,4 +1,4 @@
-# 🧠 Infoware Edu Prototype — PDF to Slides & Short Video
+# 🧠 Infoware Edu Prototype (PDF to Slides & Short Video)
 
 ### 👩‍💻 Assignee: Intern
 
