@@ -173,4 +173,4 @@ PDF (Text or Image)
 
 * Developed under **Infoware Edu Prototype Internship**
 * Author: *Intern (Infoware R&D)*
-* Guided by: *Infooware Edu AI Systems Team*
+* Guided by: *Infoware Edu AI Systems Team*
