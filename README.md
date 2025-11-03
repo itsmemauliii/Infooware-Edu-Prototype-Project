@@ -82,7 +82,7 @@ Given a single PDF input, the script:
 ### 1️⃣ Clone the repo
 
 ```bash
-git clone https://github.com/<your-username>/infooware-edu-prototype.git
+git clone https://github.com/<itsmemauliii>/infooware-edu-prototype.git
 cd infooware-edu-prototype
 ```
 
@@ -171,6 +171,6 @@ PDF (Text or Image)
 
 ## 🧾 Credits
 
-Developed under **Infooware Edu Prototype Internship**
-Author: *Intern (Infooware R&D)*
-Guided by: *Infooware Edu AI Systems Team*
+* Developed under **Infoware Edu Prototype Internship**
+* Author: *Intern (Infoware R&D)*
+* Guided by: *Infooware Edu AI Systems Team*
